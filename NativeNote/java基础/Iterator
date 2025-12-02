@@ -1,0 +1,38 @@
+## Iteraator
+使用java集合的时候需要使用Iterator 。
+![alt text](20141127192847281.png)
+
+这里假设集合List由四个元素List1、List2、List3和List4组成，当使用语句Iterator it = List.Iterator()时，迭代器it指向的位置是上图中Iterator1指向的位置，当执行语句it.next()之后，迭代器指向的位置后移到上图Iterator2所指向的位置。
+#### Iterator迭代器包含的方法有：
+
+hasNext()：如果迭代器指向位置后面还有元素，则返回 true，否则返回false
+
+next()：返回集合中Iterator指向位置后面的元素
+
+remove()：删除集合中Iterator指向位置后面的元素
+
+ListIterator迭代器包含的方法有：
+
+   add(E e): 将指定的元素插入列表，插入位置为迭代器当前位置之前
+
+hasNext()：以正向遍历列表时，如果列表迭代器后面还有元素，则返回 true，否则返回false
+
+hasPrevious():如果以逆向遍历列表，列表迭代器前面还有元素，则返回 true，否则返回false
+
+next()：返回列表中ListIterator指向位置后面的元素
+
+nextIndex():返回列表中ListIterator所需位置后面元素的索引
+
+previous():返回列表中ListIterator指向位置前面的元素
+
+previousIndex()：返回列表中ListIterator所需位置前面元素的索引
+
+remove():从列表中删除next()或previous()返回的最后一个元素（有点拗口，意思就是对迭代器使用hasNext()方法时，删除ListIterator指向位置后面的元素；当对迭代器使用hasPrevious()方法时，删除ListIterator指向位置前面的元素）
+
+set(E e)：从列表中将next()或previous()返回的最后一个元素返回的最后一个元素更改为指定元素e
+
+## ListIterator和Iterator
+- 都是迭代器 ，对当前集合的元素进行遍历都可以使用
+- 但是两者使用范围不同 ，Iterator可以应用于 set map list 等  ListIterator只能用list
+- ListIterator是Iterator的List加强版，可以往List中添加元素 `add（）`，可以向前遍历 `hasPrevious()` `previous()` ，两者都可以使用`hasNext()` `next()` 
+- ListIterator独有set()修改操作
