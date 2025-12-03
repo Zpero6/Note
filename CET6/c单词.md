@@ -107,6 +107,7 @@ commence        v. 开始,获得学位
 commend         v. 赞扬,表扬,推荐
 commerce        n.商业贸易
 commission      n. 委员会,代办,手续费          ==专项==
+                v.委托
 commit          v.犯错误,提交,给..代办
 committee       n.委员会                ==常设==
 commodity       n.商品
