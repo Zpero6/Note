@@ -71,6 +71,7 @@ clause          n. 条款
 claw            n.爪子
 clay            n.粘土
 clergy          n.牧师
+claim           v.声称,断言,宣布
 cliff           n.悬崖
 climax          n.顶点高潮
 cling           v. 粘住,依附,坚持
