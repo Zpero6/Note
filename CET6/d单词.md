@@ -51,7 +51,7 @@ deny        v.否认
 depart      v.启程离开  
             a.过去的,逝去的
 departure   n.离开 
-depict      v.描绘,描写
+depict      v.描绘,描写     ==describe ==
 deposit     v.沉淀,存放 
             n. 存款,沉积物
 depress     v.压抑,使沮丧
@@ -81,7 +81,8 @@ detach      v.分离,分开
 detail      v.详述
 detain      v.扣留,耽搁
 detect      v.发现察觉
-dedeteriorate   v.使恶化,使变坏
+deter       v.阻止,威慑,使不敢
+deteriorate   v.使恶化,使变坏
 deviate     v.(from) 背离
 device      n.装置
 devil       n.魔鬼,恶棍
@@ -145,3 +146,59 @@ district    n,地区,行政区
 disturb     v.扰乱妨碍
 disturbance n.动乱
 ditch       n,沟
+diverse     a.多种的不同的
+diversion   n.转移,转向,解闷娱乐
+divert      v.使转向,使转移,使娱乐
+dividend    n.红利,股息,效益
+divine      a.神授的,天赐的,美好的
+division    n.分割,部门,分界线  (divide)
+divorce     v/n.离婚.分离
+dizzy       a.头晕目眩的,使人头晕的
+dock        n.码头
+doctrine    n.教条学说
+domain      n.领域思想
+dome        n.圆屋顶
+dominant    a.支配的,统治的
+dominate    v.统治,支配,占优势      ==在赛场上支配->占优势,在权力上优势->支配==
+donate      v.捐赠,赠送
+doom        n.厄运劫数  v.注定
+doorway     n.门口
+dorm  (dormitory)   n.宿舍
+dose        n.一剂 (剂量),  
+            v.服药
+doze        v/n.嗑药,假寐
+draft       n.草稿,  
+            v.起草
+drag        v.拽
+drain       n.排水沟,消耗负担
+            v.排放,放干              ==排水(物理),耗尽(资源,精力),流失流走==
+dramatic    a.戏剧性的,剧烈的       ==引入瞩目的,幅度大==
+  > [!NOTE]
+  > dramatic improvement    显著提升
+drastic     a.激烈的,严厉的,猛烈的
+drawback    n.欠缺,缺点,退还的关税
+drawer      n.抽屉
+draw        v.拉(物理)画,吸引,得出(结论),提取收取
+dread       v/n.恐惧担心
+drift       v/n.漂流
+drip        v.滴下,漏水
+            n.水滴
+drought     a.干旱的
+dubious     a.怀疑的,有问题的       ==doubt v.怀疑 dub- 词根"二"==
+dull        a.单调的,迟钝的         ==blunt==
+dumb        a.哑的,无言的
+dump        v.倾倒,垃圾场
+duplicate   v.复制复写
+            n.复制品
+            a.复制的
+durable     a.持久的,耐久的
+dusk        n.薄暮
+dwarf       n.矮子
+            v.使..矮小
+dwell       v.居留居住
+dwelling    n.住宅
+dye         v.染色 n.染料
+dynamic     a.动态的,有活力的
+            n.动力,动态过程
+dynasty     n.王朝
+
