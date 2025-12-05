@@ -81,7 +81,7 @@ detach      v.分离,分开
 detail      v.详述
 detain      v.扣留,耽搁
 detect      v.发现察觉
-deter       v.阻止,威慑,使不敢
+deter       v. 阻止,阻挠
 deteriorate   v.使恶化,使变坏
 deviate     v.(from) 背离
 device      n.装置
