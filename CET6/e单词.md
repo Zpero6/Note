@@ -94,4 +94,48 @@ eternal         a.永久的,永恒的
 ethnic          a,种族的
 evacuate        v.疏散,排空,排泄
 evade           v.逃避,回避,避开
+evaporate       v.蒸发挥发
+evident         a.明显的
+evoke           v.唤醒,引起
+evolve          v.发展进化
+exaggerate      v.夸大
+exceed          v.超过超出
+exceedingly     adv.极端的,非常的
+excel           v.擅长,优于
+exceptional     a.例外的,异常的
+excerpt         n/v.摘录,引用
+excess          a.过量的,额外的
+                n.过量,过剩,超额
+excessive       a.过多的,过分的
+exchange        v.交换,交流
+
+exclaim         v. 呼喊,惊呼
+exclusive       v.独占的,排他的,孤高的
+exclude         v.排斥拒绝
+excursion       n.短途旅行,游览,偏移
+executive       n.总经理,董事,
+                a. 执行的,实施的
+exemplify       v.举例证明,示范
+exempt          a. 免除的
+                v.免除 
+                n.免税者,被免除税务的人
+exert           v.尽力,施加,努力
+exhaust         v.使筋疲力尽,耗尽
+                n. 排气装置,废气
+exile           n.流放,被流放者
+                v.流放,放逐
+exotic          a.奇异的,异国情调的,外国来的
+expand expansion    扩张,膨胀
+expedition      n.远征队,探险队
+expel           v.把...开除, 排除,驱逐
+expenditure     n.花费,支出,消耗
+expert          a.熟练的
+expertise       n.专门知识, 专长
+expire          v.期满,终止,呼气,断气,死亡
+explicit        a.详述的,明确的,坦率的
+explode         v.使爆炸
+exploit         v.开拓,开发,剥削
+                n.功勋
+
+        
 
