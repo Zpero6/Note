@@ -592,3 +592,9 @@ public void testDeleteBatch(){
     </if>
     <!-- ... -->
 ```
+
+
+
+
+
+假设通过StudentController、StudentService和StudentDao等类和接口完成学生的保存操作，请编程实现相关的接口和类，要求采用Spring框架技术中提供的控制反转和依赖注入的松耦合编程方法，使用基于Annotation的Bean装配方法来实现相关组件的生成，写出测试程序，运行查看其结果。
